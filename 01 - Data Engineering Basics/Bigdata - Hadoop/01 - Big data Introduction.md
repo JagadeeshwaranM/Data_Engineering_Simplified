@@ -1,4 +1,4 @@
-Why BigData?
+**Why BigData?**
 
    We can't process huge amount of data classified under above 4V'S(Volume, Velocity, Variety and Veracity) in traditional systems
    To process the data first we need to find a way to store them.
@@ -15,14 +15,14 @@ Why BigData?
    
    In horizontal scaling, the number of resources increased directly result in increasing the performance.
 
-Big Data Requirements:
+**Big Data Requirements:**
 
 Store --> Process -> Scale
 Store -  store massive amount of data
 Process - Process it in a timely manner
 Scale - Scale easily as data grows
 
-Scalability:
+**Scalability:**
 Two ways to build a system 
 Monolithic - A powerful system with lot of resources
 Distributed - Many smaller systems(nodes) comes together 
