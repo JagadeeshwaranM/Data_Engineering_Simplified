@@ -1,6 +1,10 @@
-Big Data is about 5 V's:
-   Volume - 
-   Velocity - 
-   Variety - 
-   Veracity -
-   Value - 
+Why BigData?
+
+   We can't process huge amount of data classified under above 4V'S(Volume, Velocity, Variety and Veracity) in traditional systems
+   To process the data first we need to find a way to store them.
+   Where do we store such huge amount of data?
+       Can we store and process 1 TB of data if I have storage capacity of 500 GB in single machine? No
+       But same 1 TB of can be stored on 10 machines(100 GB each) and process subsequently. This is nothing but distributed system.
+
+Distributed Stor
+
