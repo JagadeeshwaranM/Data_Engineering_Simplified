@@ -5,10 +5,6 @@ commodity hardware.
 
 Its a framework to solve big data problems.
 
-Before Big Data Era -  It is storage and just process in a single machine/server
-
-After Big Data Era -  It is distributed storage and distributed processing in cluster(group of machine)
-
 Hadoop Versions:
 
 1.0 - Hadoop Distributed File System(HDFS) , Map Reduce(MR)
