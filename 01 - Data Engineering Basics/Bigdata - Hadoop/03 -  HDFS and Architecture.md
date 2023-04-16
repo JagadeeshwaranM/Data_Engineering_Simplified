@@ -14,8 +14,12 @@ Meta Data - Namenode stores the information which says about each blocks locatio
 
 Data Nodes are made of commodity hardwares and Name nodes are made of high quality hardwares
 
-Client(Laptop) submits a job/ Request --> Requests goes to Namenode --> Namenode sends back metadata info --> Client reads data from blocks of data node based on metadata
-
 Datanodes store actual data in blocks and perform actual processing
+
+Replication - Copying the individual blocks into different racks.
+
+Racks - Group of machines in same network or geography
+
+Client(Laptop) submits a job/ Request --> Requests goes to Namenode --> Namenode sends back metadata info --> Client reads data from blocks of data node based on metadata
 
 
