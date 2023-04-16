@@ -1,7 +1,6 @@
 **What is Hadoop?**
 
-      Hadoop is an open-source software framework written in Java for distributed storage and distributed processing of very large dataset on computer clusters built           from the commodity hardware.
-
+      Hadoop is an open-source software framework written in Java for distributed storage and distributed processing of very large dataset on group of machines.
       Its a framework to solve big data problems.
 
 **Hadoop Versions:**
@@ -22,7 +21,7 @@
 **Hadoop Ecosystem:**
 
       Hive        - Datawarehouse tool for data analysis.
-                    Don't know Java and know SQL. Write code in SQL and this gets converted into MR internally and submitted into cluster. It uses Hive Query Language(HQL). 
+                    Don't know Java and know SQL. Write code in SQL and this gets converted into MR internally and submitted into cluster. 
       Sqoop       - CLI that transfers data between relation databases(oracle) and Hadoop
       Pig         - Scripting language for data manipulation(clean the data) and convert unstructured data into structured.
       Hbase       - No SQL DB runs on top of HDFS.
