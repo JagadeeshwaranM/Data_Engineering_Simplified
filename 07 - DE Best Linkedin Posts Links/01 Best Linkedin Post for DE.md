@@ -50,6 +50,8 @@
      https://www.linkedin.com/feed/update/urn:li:activity:7052512734155853824/
      https://www.linkedin.com/feed/update/urn:li:activity:7018184970011615233/
      https://www.linkedin.com/feed/update/urn:li:activity:7048326060605599745/
+     https://www.linkedin.com/feed/update/urn:li:activity:7053781085008101377/
+     https://www.linkedin.com/feed/update/urn:li:activity:7011543533010509824/
      
  - **AWS Data Engineer**
      https://www.linkedin.com/feed/update/urn:li:activity:7051422119175352320/
@@ -66,5 +68,9 @@
  - **Databricks DE Associate**
    https://www.linkedin.com/feed/update/urn:li:activity:7015225769610149888/
    https://www.linkedin.com/feed/update/urn:li:activity:7034379774881906688/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7034379774881906688%29
-     
    
+   -  **Design modern datawarehouse with data lake**
+   https://www.linkedin.com/feed/update/urn:li:activity:7045233067963101184/
+     
+  - **ETL Vs ELT**
+  https://www.linkedin.com/feed/update/urn:li:activity:7006970102575239168/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7006970102575239168%29   
