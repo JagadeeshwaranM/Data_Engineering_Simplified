@@ -26,11 +26,15 @@ https://www.youtube.com/@DataEngUncomplicated/playlists
 
 https://www.youtube.com/@ankitbansal6/playlists
 
-** Learn DE in Tamil**
+**Datawarehousing concepts**
+
+https://www.youtube.com/watch?v=CzCrfE6ofZM
+
+**Learn DE in Tamil**
 
 https://www.youtube.com/@dataengineeringvideos/playlists
 
-Booster:
+**Booster**:
 
 https://www.youtube.com/@SeattleDataGuy/playlists
 https://www.youtube.com/@DatawithZach
