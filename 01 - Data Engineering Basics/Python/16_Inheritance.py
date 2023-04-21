@@ -166,4 +166,4 @@ class create_account(provide_email):  # child class
 
 obj1 = login('gajerabhavik915', 7573073)
 obj1.login_detail()
-
+   
